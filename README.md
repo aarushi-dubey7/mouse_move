@@ -1,6 +1,6 @@
 # mouse_move
 
-Simple Arduino/PlatformIO project that gently nudges a servo to keep a mouse moving. Use it when working from home, and you need a break. 
+Simple Arduino/PlatformIO project that gently nudges a servo to keep a mouse moving. 
 
 ## What it does
 
