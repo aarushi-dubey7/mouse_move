@@ -1,5 +1,15 @@
 # mouse_move
 
+![top](images/top.jpg)
+
+![top left](images/top-left.jpg)
+
+![servo side](images/servo-side.jpg)
+
+![total](images/total.jpg)
+
+![bottom](images/bottom.jpg)
+
 Simple Arduino/PlatformIO project that gently nudges a servo to keep a mouse moving. 
 
 ## What it does
