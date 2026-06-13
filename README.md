@@ -1,9 +1,14 @@
 # mouse_move
 
+![image1](image1)
+![image2](image2)
+![image3](image3)
+![image4](image4)
+
 Simple Arduino/PlatformIO project that gently nudges a servo to keep a mouse moving. 
 ## What it does
 
-The sketch attaches a servo on pin 9, moves it slightly to the right, returns to center, moves it slightly to the left, then returns to center again. After that, it waits before repeating the cycle.
+The sketch attaches a servo on pin 9, moves it slightly to the right, returns to center, moves it slightly to the left, then returns to center again. After that, it waits before repeating the cycle[...]
 
 ## Hardware
 
