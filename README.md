@@ -1,5 +1,6 @@
-# mouse_move
 ![top](images/top.jpg)
+
+# mouse_move
 
 ![top left](images/top-left.jpg)
 
@@ -9,7 +10,7 @@
 
 ![bottom](images/bottom.jpg)
 
-Simple Arduino/PlatformIO project that gently nudges a servo to keep a mouse moving. 
+Simple Arduino/PlatformIO and Lego project that gently nudges a servo to keep a mouse moving. 
 ## What it does
 
 The sketch attaches a servo on pin 9, moves it slightly to the right, returns to center, moves it slightly to the left, then returns to center again. After that, it waits before repeating the cycle[...]
